@@ -13,7 +13,7 @@ Youtube video URL: https://www.youtube.com/watch?v=awNaLkcgKsQ
 ## Usage
 The user can use Imsomnia to test out the HTTP mettods as demonstrated in the video link found above.
 
-![alt text]("screen shot goes hear")
+![alt text](./assets/insomnia.png)
 
 ## License
 

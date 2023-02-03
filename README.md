@@ -8,7 +8,7 @@ A video link has been provide below showing the use of Imsomnia to test all the 
 
 gitHub repo URL: https://github.com/Tomal1/E-Commerce
 
-Youtube video URL: 
+Youtube video URL: https://www.youtube.com/watch?v=awNaLkcgKsQ
 
 ## Usage
 The user can use Imsomnia to test out the HTTP mettods as demonstrated in the video link found above.
